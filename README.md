@@ -1,4 +1,4 @@
-## Sebastian Korotkiewicz
+# Sebastian Korotkiewicz
 
 IT Geek interested in all the things! System administration, web development and more :)
 
